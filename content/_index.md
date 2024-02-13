@@ -63,33 +63,33 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist Intern
-            company: Meta AI Research (FAIR)
-            company_url: ''
-            company_logo: Meta_icon
-            location: Seattle, WA
-            date_start: '2023-07-24'
-            date_end: '2023-11-10'
+          company: Meta AI Research (FAIR)
+          company_url: ''
+          company_logo: Meta_icon
+          location: Seattle, WA
+          date_start: '2023-07-24'
+          date_end: '2023-11-10'
         - title: Research Scientist Intern
-            company: Meta AI
-            company_url: ''
-            company_logo: Meta_icon
-            location: New York City, NY
-            date_start: '2022-09-29'
-            date_end: '2023-01-06'
+          company: Meta AI
+          company_url: ''
+          company_logo: Meta_icon
+          location: New York City, NY
+          date_start: '2022-09-29'
+          date_end: '2023-01-06'
         - title: Applied Scientist Intern
-            company: Amazon Alexa AI
-            company_url: ''
-            company_logo: Amazon_icon
-            location: Sunnyvale, CA
-            date_start: '2021-07-01'
-            date_end: '2021-11-01'
+          company: Amazon Alexa AI
+          company_url: ''
+          company_logo: Amazon_icon
+          location: Sunnyvale, CA
+          date_start: '2021-07-01'
+          date_end: '2021-11-01'
         - title: Applied Scientist Intern
-            company: Amazon Alexa AI
-            company_url: ''
-            company_logo: Amazon_icon
-            location: Sunnyvale, CA
-            date_start: '2020-03-01'
-            date_end: '2020-06-19'
+          company: Amazon Alexa AI
+          company_url: ''
+          company_logo: Amazon_icon
+          location: Sunnyvale, CA
+          date_start: '2020-03-01'
+          date_end: '2020-06-19'
     design:
       columns: '2'
   # - block: accomplishments
