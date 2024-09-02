@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Chao-Wei Huang and I'm a Ph.D. candidate at National Taiwan University, advised by Prof. Yun-Nung (Vivian) Chen. My research interests include dialogue modeling and retrieval-augmented large language models. Previously, I worked as a Research Scientist Intern at Amazon Alexa AI ('20, '21) and Meta AI Research ('22, '23).
+Hi! My name is Chao-Wei Huang and I'm a Ph.D. candidate at National Taiwan University, advised by Prof. Yun-Nung (Vivian) Chen. My research interests include information retrieval, factuality, large language models, and speech processing. Previously, I worked as a Research Scientist Intern at Amazon Alexa AI ('20, '21) and Meta AI Research ('22, '23).
 {style="text-align: justify;"}
