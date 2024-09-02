@@ -25,22 +25,23 @@ organizations:
     url: https://www.ntu.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include dialogue modeling and retrieval-augmented large language models.
+bio: My research interests include information retrieval, factuality, LLMs, and speech processing.
 
 # Interests to show in About widget
 interests:
-  - Computational Linguistics
   - Information Retrieval
+  - Speech Processing
+  - Factuality in Large Language Models
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Computer Science and Information Engineering
       institution: National Taiwan University
-      year: 2018
+      year: 2018-2024
     - course: B.S. in Computer Science and Information Engineering
       institution: National Taiwan University
-      year: 2014
+      year: 2014-2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
