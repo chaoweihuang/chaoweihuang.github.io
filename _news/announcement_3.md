@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-09-12 07:59:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+PhDone! I have received my Ph.D. degree from [National Taiwan University](https://www.ntu.edu.tw/english/)!
