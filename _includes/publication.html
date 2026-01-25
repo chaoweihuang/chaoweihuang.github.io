@@ -1,0 +1,28 @@
+<div class="publication-entry mb-3">
+  <div class="pub-title">
+    <strong>{{ include.pub.title }}</strong>
+  </div>
+  <div class="pub-authors text-muted small">
+    {{ include.pub.authors }}
+  </div>
+  <div class="pub-venue small">
+    <em>{{ include.pub.venue }}</em>, {{ include.pub.year }}
+  </div>
+  <div class="pub-links mt-1">
+    {% if include.pub.paper %}
+    <a href="{{ include.pub.paper }}" class="btn btn-sm btn-outline-primary" target="_blank">
+      <i class="bi bi-file-pdf"></i> Paper
+    </a>
+    {% endif %}
+    {% if include.pub.code %}
+    <a href="{{ include.pub.code }}" class="btn btn-sm btn-outline-secondary" target="_blank">
+      <i class="bi bi-github"></i> Code
+    </a>
+    {% endif %}
+    {% if include.pub.slides %}
+    <a href="{{ include.pub.slides }}" class="btn btn-sm btn-outline-info" target="_blank">
+      <i class="bi bi-easel"></i> Slides
+    </a>
+    {% endif %}
+  </div>
+</div>

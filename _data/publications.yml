@@ -1,0 +1,183 @@
+# Publications list converted from BibTeX
+
+- title: "FactAlign: Long-form Factuality Alignment of Large Language Models"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "Findings of EMNLP"
+  year: 2024
+  paper: "https://arxiv.org/abs/2410.01691"
+  code: "https://github.com/MiuLab/FactAlign"
+  selected: true
+
+- title: "PairDistill: Pairwise Relevance Distillation for Dense Passage Retrieval"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "EMNLP"
+  year: 2024
+  paper: "https://arxiv.org/abs/2410.01383"
+  code: "https://github.com/MiuLab/PairDistill"
+  selected: true
+
+- title: "Investigating Decoder-only Large Language Models for Speech-to-text Translation"
+  authors: "Chao-Wei Huang, Hui Lu, Hongyu Gong, Hirofumi Inaguma, Ilia Kulikov, Ruslan Mavlyutov, Sravya Popuri"
+  venue: "Interspeech"
+  year: 2024
+  paper: "https://arxiv.org/abs/2407.03169"
+  selected: true
+
+- title: "Unsupervised Multilingual Dense Retrieval via Generative Pseudo Labeling"
+  authors: "Chao-Wei Huang, Tsu-Yuan Hsu, Chen-An Li, Chen-Yu Hsu, Yun-Nung Chen"
+  venue: "Findings of EACL"
+  year: 2024
+  paper: "https://aclanthology.org/2024.findings-eacl.49/"
+  code: "https://github.com/MiuLab/UMR"
+  selected: true
+
+- title: "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization"
+  authors: "Yu-Min Tseng, Yu-Chao Huang, Teng-Yun Hsiao, Wei-Lin Chen, Chao-Wei Huang, Yu Meng, Yun-Nung Chen"
+  venue: "Findings of EMNLP"
+  year: 2024
+  paper: "https://arxiv.org/abs/2406.01171"
+  code: "https://github.com/MiuLab/PersonaLLM-Survey"
+  selected: true
+
+- title: "Editing the Mind of Giants: An In-Depth Exploration of Pitfalls of Knowledge Editing in Large Language Models"
+  authors: "Cheng-Hsun Hsueh, Paul Kuo-Ming Huang, Tzu-Han Lin, Che-Wei Liao, Hung-Chieh Fang, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "Findings of EMNLP"
+  year: 2024
+  paper: "https://arxiv.org/abs/2406.01436"
+  code: "https://github.com/MiuLab/EditLLM-Survey"
+  selected: true
+
+- title: "InstUPR: Instruction-based Unsupervised Passage Reranking with Large Language Models"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "arXiv"
+  year: 2024
+  paper: "https://arxiv.org/abs/2403.16435"
+  code: "https://github.com/MiuLab/InstUPR"
+  selected: true
+
+- title: "A Survey of Generative Information Retrieval"
+  authors: "Tzu-Lin Kuo, Tzu-Wei Chiu, Tzung-Sheng Lin, Sheng-Yang Wu, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "arXiv"
+  year: 2024
+  paper: "https://arxiv.org/abs/2406.01197"
+  selected: false
+
+- title: "CONVERSER: Few-shot Conversational Dense Retrieval with Synthetic Data Generation"
+  authors: "Chao-Wei Huang, Chen-Yu Hsu, Tsu-Yuan Hsu, Chen-An Li, Yun-Nung Chen"
+  venue: "SIGDIAL"
+  year: 2023
+  paper: "https://aclanthology.org/2023.sigdial-1.34/"
+  code: "https://github.com/MiuLab/CONVERSER"
+  selected: true
+
+- title: "Visually-Enhanced Phrase Understanding"
+  authors: "Tsu-Yuan Hsu, Chen-An Li, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "Findings of ACL"
+  year: 2023
+  paper: "https://aclanthology.org/2023.findings-acl.363/"
+  code: "https://github.com/MiuLab/VisualLU"
+  selected: false
+
+- title: "PLM-ICD: Automatic ICD Coding with Pretrained Language Models"
+  authors: "Chao-Wei Huang, Shang-Chi Tsai, Yun-Nung Chen"
+  venue: "Clinical NLP Workshop"
+  year: 2022
+  paper: "https://aclanthology.org/2022.clinicalnlp-1.2/"
+  code: "https://github.com/MiuLab/PLM-ICD"
+  selected: true
+
+- title: "Open-Domain Conversational Question Answering with Historical Answers"
+  authors: "Hung-Chieh Fang, Kuo-Han Hung, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "Findings of AACL"
+  year: 2022
+  paper: "https://aclanthology.org/2022.findings-aacl.30/"
+  code: "https://github.com/MiuLab/ConvADR-QA"
+  selected: false
+
+- title: "Controllable User Dialogue Act Augmentation for Dialogue State Tracking"
+  authors: "Chun-Mao Lai, Ming-Hao Hsu, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "SIGDIAL"
+  year: 2022
+  paper: "https://aclanthology.org/2022.sigdial-1.5/"
+  code: "https://github.com/MiuLab/CUDA-DST"
+  selected: false
+
+- title: "Miutsu: NTU's TaskBot for the Alexa Prize"
+  authors: "Yen-Ting Lin, Hui-Chi Kuo, Ze-Song Xu, Ssu Chiu, Chieh-Chi Hung, Yi-Cheng Chen, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "Alexa Prize"
+  year: 2022
+  paper: "https://arxiv.org/abs/2205.07446"
+  selected: false
+
+- title: "Modeling Diagnostic Label Correlation for Automatic ICD Coding"
+  authors: "Shang-Chi Tsai, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "NAACL"
+  year: 2021
+  paper: "https://aclanthology.org/2021.naacl-main.318/"
+  code: "https://github.com/MiuLab/ICD-Correlation"
+  selected: false
+
+- title: "Overview of the ninth dialog system technology challenge: DSTC9"
+  authors: "Chulaka Gunasekara, Seokhwan Kim, Luis Fernando D'Haro, Abhinav Rastogi, Yun-Nung Chen, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, et al."
+  venue: "DSTC9"
+  year: 2020
+  paper: "https://arxiv.org/abs/2011.06486"
+  selected: false
+
+- title: "Learning multi-level information for dialogue response selection by highway recurrent transformer"
+  authors: "Ting-Rui Chiang, Chao-Wei Huang, Shang-Yu Su, Yun-Nung Chen"
+  venue: "Computer Speech & Language"
+  year: 2020
+  paper: "https://www.sciencedirect.com/science/article/abs/pii/S0885230820300061"
+  code: "https://github.com/MiuLab/DSTC7/tree/track1/track1"
+  selected: false
+
+- title: "RAP-Net: Recurrent attention pooling networks for dialogue response selection"
+  authors: "Chao-Wei Huang, Ting-Rui Chiang, Shang-Yu Su, Yun-Nung Chen"
+  venue: "Computer Speech & Language"
+  year: 2020
+  paper: "https://www.sciencedirect.com/science/article/abs/pii/S0885230820300127"
+  code: "https://github.com/MiuLab/DSTC7/tree/track1/track1"
+  selected: false
+
+- title: "Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "ICASSP"
+  year: 2020
+  paper: "https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP20_SpokenVec.pdf"
+  code: "https://github.com/MiuLab/SpokenVec"
+  slides: "https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP20_SpokenVec_slide.pdf"
+  selected: true
+
+- title: "Learning Spoken Language Representations with Neural Lattice Language Modeling"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "ACL"
+  year: 2020
+  paper: "https://www.aclweb.org/anthology/2020.acl-main.347/"
+  code: "https://github.com/MiuLab/Lattice-ELMo"
+  slides: "https://www.csie.ntu.edu.tw/~yvchen/doc/ACL20_LatticeLM_slide.pdf"
+  selected: true
+
+- title: "Towards Unsupervised Language Understanding and Generation by Joint Dual Learning"
+  authors: "Shang-Yu Su, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "ACL"
+  year: 2020
+  paper: "https://aclanthology.org/2020.acl-main.63/"
+  code: "https://github.com/MiuLab/DuaLUG"
+  selected: false
+
+- title: "Adapting pretrained transformer to lattices for spoken language understanding"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "ASRU"
+  year: 2019
+  paper: "https://arxiv.org/abs/2011.00780"
+  code: "https://github.com/MiuLab/Lattice-SLU"
+  selected: true
+
+- title: "Dual Supervised Learning for Natural Language Understanding and Generation"
+  authors: "Shang-Yu Su, Chao-Wei Huang, Yun-Nung Chen"
+  venue: "ACL"
+  year: 2019
+  paper: "https://aclanthology.org/P19-1545/"
+  code: "https://github.com/MiuLab/DuaLUG"
+  selected: false

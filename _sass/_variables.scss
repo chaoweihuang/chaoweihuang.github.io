@@ -1,52 +1,27 @@
-/*******************************************************************************
- * Variables used throughout the theme.
- * To adjust anything, simply edit the variables below and rebuild the theme.
- ******************************************************************************/
+// Light mode colors (default)
+:root {
+  --bg-color: #ffffff;
+  --text-color: #212529;
+  --text-muted: #6c757d;
+  --link-color: #0d6efd;
+  --link-hover-color: #0a58ca;
+  --navbar-bg: #f8f9fa;
+  --footer-bg: #f8f9fa;
+  --border-color: #dee2e6;
+  --code-bg: #f8f9fa;
+  --card-bg: #ffffff;
+}
 
-@use "sass:color";
-
-// Colors
-$red-color: #ff3636 !default;
-$red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
-$cyan-color: #2698ba !default;
-$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
-
-$grey-color: #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1c1c1d;
-$grey-900: #212529;
-
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
-
-// Theme colors
-
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
-
-// Font awesome location
-$fa-font-path: "../webfonts";
-
-// Tabler icons location
-$ti-font-path: "../fonts";
-
-// Back To Top button config
-$back-to-top-z-index: 10;
-$back-to-top-bottom: 30px;
-$back-to-top-right: 30px;
-$back-to-top-diameter: 40px;
-$back-to-top-height: $back-to-top-diameter;
-$back-to-top-width: $back-to-top-diameter;
+// Dark mode colors
+[data-theme="dark"] {
+  --bg-color: #1a1a2e;
+  --text-color: #e9ecef;
+  --text-muted: #adb5bd;
+  --link-color: #6ea8fe;
+  --link-hover-color: #9ec5fe;
+  --navbar-bg: #16213e;
+  --footer-bg: #16213e;
+  --border-color: #495057;
+  --code-bg: #2d2d44;
+  --card-bg: #16213e;
+}
