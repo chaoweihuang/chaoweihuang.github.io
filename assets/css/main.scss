@@ -15,18 +15,18 @@
   --card-bg: #ffffff;
 }
 
-// Dark mode colors
+// Dark mode colors (almost black, like al-folio)
 [data-theme="dark"] {
-  --bg-color: #1a1a2e;
+  --bg-color: #1d1d1d;
   --text-color: #e9ecef;
-  --text-muted: #adb5bd;
+  --text-muted: #9a9a9a;
   --link-color: #6ea8fe;
   --link-hover-color: #9ec5fe;
-  --navbar-bg: #16213e;
-  --footer-bg: #16213e;
-  --border-color: #495057;
-  --code-bg: #2d2d44;
-  --card-bg: #16213e;
+  --navbar-bg: #181818;
+  --footer-bg: #181818;
+  --border-color: #3d3d3d;
+  --code-bg: #2a2a2a;
+  --card-bg: #242424;
 }
 
 // Apply theme variables
