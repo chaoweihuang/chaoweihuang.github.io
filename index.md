@@ -10,7 +10,7 @@ title: About
     </div>
     <div class="profile-content">
       <h1 class="profile-name">{{ site.author.name }}</h1>
-      <p class="profile-title">Ph.D., National Taiwan University</p>
+      <p class="profile-title">Research Scientist at Meta</p>
       <div class="profile-bio">
         <p>
           I received my B.S. and Ph.D. from National Taiwan University, advised by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Prof. Yun-Nung (Vivian) Chen</a>.
@@ -19,7 +19,7 @@ title: About
           My research interests include <strong>information retrieval</strong>, <strong>factuality</strong>, <strong>large language models</strong>, and <strong>speech processing</strong>. My work has been published in top-tier venues including ACL, EMNLP, NAACL, ICASSP, Interspeech, and EACL.
         </p>
         <p>
-          Previously, I worked as a Research Scientist Intern at <strong>Amazon Alexa AI</strong> and <strong>Meta AI Research</strong>.
+          I am currently a Research Scientist at <strong>Meta</strong>, based in Cambridge, MA. Previously, I worked as a Research Scientist Intern at Amazon Alexa AI and Meta AI Research.
         </p>
       </div>
       <div class="profile-links">

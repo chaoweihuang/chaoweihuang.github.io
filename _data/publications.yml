@@ -1,4 +1,11 @@
-# Publications list converted from BibTeX
+# Publications list
+
+- title: "LLMs are Biased Evaluators But Not Biased for Fact-Centric Retrieval Augmented Generation"
+  authors: "Chao-Wei Huang, Yun-Nung Chen"
+  venue: "Findings of ACL"
+  year: 2025
+  paper: "https://aclanthology.org/2025.findings-acl.1369/"
+  selected: true
 
 - title: "FactAlign: Long-form Factuality Alignment of Large Language Models"
   authors: "Chao-Wei Huang, Yun-Nung Chen"

@@ -1,4 +1,10 @@
-# News items converted from _news/
+# News items
+
+- date: "2025-09-08"
+  content: "I started as a Research Scientist at <a href='https://ai.meta.com/'>Meta</a>, based in Cambridge, MA!"
+
+- date: "2025-01-15"
+  content: "Our paper \"LLMs are Biased Evaluators But Not Biased for Fact-Centric RAG\" has been accepted to <a href='https://2025.aclweb.org/'>Findings of ACL 2025</a>!"
 
 - date: "2024-09-21"
   content: "Excited to share that 4 papers (2 first-authored) have been accepted to <a href='https://2024.emnlp.org/'>EMNLP 2024</a>!"
